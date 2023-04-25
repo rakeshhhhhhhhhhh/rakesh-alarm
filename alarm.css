@@ -1,0 +1,55 @@
+.wrapper{
+    width:75%;
+    height:300px;
+    background-color:grey;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+
+}
+body{
+    text-align: center;
+}
+.timeline{
+    text-align:center;
+    font-size:1.1rem;
+}
+#add{
+    width:30%;
+    height:30%;
+    margin-top:20px;
+}
+.inputs{
+    display:flex;
+    justify-content: center;
+    align-items;center;
+    margin-left: 40%;
+    margin-top: 10px;
+    width:20%;
+    height:25%;
+}
+.inputs input{
+    width:20%;
+    height:75%;
+}
+#adder{
+    height:300px;
+    width:300px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left:200px;
+    margin-top:20px;
+    background-color: bisque;
+
+}
+.delete{
+    width:25%;
+    height:10%;
+    
+}
+.anu{
+    width:25%;
+    height:10%;
+    margin-right:10%;
+    border:2px solid black;
+}
